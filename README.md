@@ -1,6 +1,11 @@
 # assembly-tasks
 Homeworks of assembly language course
 
+## polish_notation (GAS)
+Calculator with basic arithmetic operations (/ * + -) and brackets 
+
+![image_2023-01-18_11-28-06](https://user-images.githubusercontent.com/59769714/213100286-0cef79b5-8cfd-4209-814d-530a03ae4ed1.png)
+
 ## paint (NASM)
 Simple version of Paint for pixel drawing that allows to save / load .bmp files
 
